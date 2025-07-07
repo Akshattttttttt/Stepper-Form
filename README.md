@@ -27,6 +27,7 @@ Customizable and modular structure
 📁 Note: I have attached screenshots of the application layout in Assets, and the success screen for reference.
 
 🛠️ Tech Stack
+
 HTML5
 
 CSS3 (with custom variables for theme consistency)
